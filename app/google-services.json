@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "462298957365",
+    "project_id": "help-farmers-442d3",
+    "storage_bucket": "help-farmers-442d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462298957365:android:3b9c98d11df04a06f1537c",
+        "android_client_info": {
+          "package_name": "com.example.helpfarmers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462298957365-dmtgk1t4kja766kobbqctsv6ob67cj1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3-sO5qfYVAe-ZoVkC5q9wVGhycp_Qng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462298957365-dmtgk1t4kja766kobbqctsv6ob67cj1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462298957365:android:2587ecd5dd20cb2bf1537c",
+        "android_client_info": {
+          "package_name": "com.example.saka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462298957365-dmtgk1t4kja766kobbqctsv6ob67cj1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3-sO5qfYVAe-ZoVkC5q9wVGhycp_Qng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462298957365-dmtgk1t4kja766kobbqctsv6ob67cj1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
